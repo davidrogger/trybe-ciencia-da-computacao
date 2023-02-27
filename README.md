@@ -10,7 +10,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         Job Insights
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-job-insights">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/01_job_insights.webp">
       </a>
     </td>
     <td width="50%" align="center">
