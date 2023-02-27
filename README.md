@@ -1,6 +1,6 @@
-# Backend
+# Ciência da Computação
 
-Projetos e atividades realizadas durante o módulo de Ciências das Computação na escola [trybe](https://www.betrybe.com/).
+Projetos e atividades realizadas durante o módulo de Ciência da Computação na escola [trybe](https://www.betrybe.com/).
 >Visão geral dos Projetos dividindo cada projeto com seu respetivo repositório, onde é possível acessar todo código.
 
 <table>
