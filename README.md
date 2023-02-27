@@ -10,7 +10,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         Job Insights
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-job-insights">
-      <img src="./readme-imgs/01_job-insights.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
     <td width="50%" align="center">
@@ -18,7 +18,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         Inventory Report
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-inventory-report">
-      <img src="./readme-imgs/02_inventory-report.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
   </tr>
@@ -29,7 +29,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         Tech News
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-tech-news">
-      <img src="./readme-imgs/03_tech-news.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
     <td width="50%" align="center">
@@ -37,7 +37,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         Algorithms
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-algorithms">
-      <img src="./readme-imgs/04_algorithms.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
   </tr>
@@ -48,7 +48,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         TING
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-ting">
-      <img src="./readme-imgs/05_ting.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
     <td width="50%" align="center">
@@ -56,7 +56,7 @@ Projetos e atividades realizadas durante o módulo de Ciências das Computação
         Restaurant Orders
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">
-      <img src="./readme-imgs/06_restaurant-orders.webp">
+      <img src="./readme-imgs/placeholder_400x250.webp">
       </a>
     </td>
   </tr>
