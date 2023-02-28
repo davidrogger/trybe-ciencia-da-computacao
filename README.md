@@ -29,7 +29,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         Tech News
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-tech-news">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/03_tech_news.webp">
       </a>
     </td>
     <td width="50%" align="center">
