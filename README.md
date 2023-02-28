@@ -18,7 +18,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         Inventory Report
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-inventory-report">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/02_inventory_report.webp">
       </a>
     </td>
   </tr>
