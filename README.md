@@ -37,7 +37,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         Algorithms
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-algorithms">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/04_algorithms.webp">
       </a>
     </td>
   </tr>
