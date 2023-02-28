@@ -48,7 +48,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         TING
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-ting">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/05_ting.webp">
       </a>
     </td>
     <td width="50%" align="center">
