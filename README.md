@@ -56,7 +56,7 @@ Projetos e atividades realizadas durante o módulo de Ciência da Computação n
         Restaurant Orders
       <h2>
       <a href="https://github.com/davidrogger/trybe-project-restaurant-orders">
-      <img src="./readme-imgs/placeholder_400x250.webp">
+      <img src="./readme-imgs/06_restaurant_orders.webp">
       </a>
     </td>
   </tr>
